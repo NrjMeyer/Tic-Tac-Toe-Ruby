@@ -17,7 +17,7 @@ Les pre-requis:
 
 # Utilisation
   - Cloner le repository
-  - Lancer le script .rb dans votre terminal
+  - Lancer le index.rb dans votre terminal
   - Enjoy
    
 **NB** 
